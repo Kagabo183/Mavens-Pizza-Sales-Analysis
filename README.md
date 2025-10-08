@@ -36,7 +36,6 @@ Maven Pizza Sale's database structure as seen below consists of four tables: Ord
 
 Non-vegetarian pizzas, particularly the Thai Chicken and Barbecue Chicken varieties, lead in sales, while the Brie Carre and Green Garden pizzas are the lowest performers. Garlic, tomatoes, and red onions are the most popular ingredients, with the Classic category and Large pizza size being the top choices. Peak sales occur in the afternoon, with Friday being the highest-performing day and July generating the most revenue.
 
-Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be viewed [here](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight/blob/main/Maven%20Pizza%20Sales%20Insight%20Dashboard.xlsx).
 
 ### Maven's Pizza Sales Dashboard
 
@@ -56,7 +55,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - **Peak Days**: The peak sales days are Thursday, Friday, and Saturday, with Friday leading in sales at 8,106 pizzas sold.
 - **Peak Month**: July stands out as the top-performing month, generating $72,557 in sales and 4,301 pizzas sold.
 
-![Mavens Pizza Dashboard](https://github.com/user-attachments/assets/ac5fa199-5b2d-407f-9d24-5b1b2fb71ac4)
+
 
 # Recommendations
 
