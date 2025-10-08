@@ -19,10 +19,6 @@ Insights and recommendations are provided on the following key areas :
 - **Peak Sales Times**: Conducting time-based analysis to pinpoint peak sales periods, including peak times of day, specific hours, and high-traffic days.
 - **Monthly Performance**: Analyzing sales trends across months to identify the highest-performing period
 
-Detailed Resources: 
-
-- The Pre-Processing process utilized can be found [here](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight/blob/main/Queries%20%26%20Insight/%5B01%5D%20Main%20Query.sql). 
-- An interactive Excel dashboard can be downloaded [here](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight/blob/main/Maven%20Pizza%20Sales%20Insight%20Dashboard.xlsx).
 
 # Data Structure
 
